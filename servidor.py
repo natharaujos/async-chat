@@ -1,6 +1,3 @@
-# Implementação baseada no material do campus e utilizando como base o 
-# video: https://www.youtube.com/watch?v=slC-qNFm6hg
-
 import threading
 import socket
 
