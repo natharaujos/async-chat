@@ -1,10 +1,6 @@
 # async-chat
 
-<div class="markdown prose w-full break-words dark:prose-invert light">
-  <p>
-    Aqui está um exemplo de documentação para um chat assíncrono utilizando
-    Python:
-  </p>
+  
   <h1>Chat Assíncrono em Python</h1>
   <p>
     Este projeto é um exemplo de implementação de um chat assíncrono utilizando
@@ -68,4 +64,3 @@
       encaminha a mensagem para todos os outros clientes conectados.
     </li>
   </ul>
-</div>
