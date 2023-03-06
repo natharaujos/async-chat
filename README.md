@@ -5,7 +5,7 @@
   <p>
     Este projeto é um exemplo de implementação de um chat assíncrono utilizando
     Python. O objetivo é demonstrar habilidades em programação assíncrona em
-    Python, incluindo sockets, asyncio e threads.
+    Python, incluindo sockets e threads.
   </p>
   <h2>Tecnologias utilizadas</h2>
   <ul>
